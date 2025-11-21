@@ -4,3 +4,4 @@ test test test
 add
 second
 third
+four
